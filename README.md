@@ -4,7 +4,7 @@
 
 ## Palindrome string
 
-![Test!](assets\palindrome.PNG)
+![Test!](assets/palindrome.PNG)
 
 ## Not a Palindrome string
 
